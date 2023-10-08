@@ -10,6 +10,12 @@ The main code is borrowed from [unveil_htmx_demo](https://github.com/fujohnwang/
 - [x] docker
 - [x] github actions
 
+## how to run
+
+```shell
+docker run --rm -p 8080:8080 robbietree/htmx-demo:sha-f747555
+```
+
 ## screenshot
 
 ```

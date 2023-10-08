@@ -26,6 +26,7 @@ jobs:
           images: robbietree/htmx-demo
           tags: |
             type=ref,event=branch
+            type=sha
       - name: Build and push
         id: docker_build
         uses: docker/build-push-action@v5

@@ -1,3 +1,3 @@
-FROM gcr.io/distroless/base
+FROM ubuntu:jammy
 COPY target/htmx-demo app
-CMD ["./app"]
+ENTRYPOINT ["/app"]

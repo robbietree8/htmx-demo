@@ -6,6 +6,7 @@ The main code is borrowed from [unveil_htmx_demo](https://github.com/fujohnwang/
 
 - [x] spring boot
 - [x] thymeleaf
+- [x] tailwindcss
 - [x] graalvm
 - [x] docker
 - [x] github actions

@@ -2,7 +2,7 @@
 
 The main code is borrowed from [unveil_htmx_demo](https://github.com/fujohnwang/unveil_htmx_demo)
 
-## features
+## tech
 
 - [x] spring boot
 - [x] thymeleaf
